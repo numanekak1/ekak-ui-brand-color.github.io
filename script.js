@@ -144,7 +144,7 @@ var strColorName = 'brownList'
 colorpallet(brownList,strColorName);
 
 var strColorName = 'darkbrownList'
-colorpallet(brownList,strColorName);
+colorpallet(darkbrownList,strColorName);
 
 var strColorName = 'redList'
-colorpallet(brownList,strColorName);
+colorpallet(redList,strColorName);
